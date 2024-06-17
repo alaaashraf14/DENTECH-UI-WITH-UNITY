@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Splash/Scenes/Splash.unity
+    guid: 463254d66d1b5e248989c7c34513eeda
+  - enabled: 1
+    path: Assets/OnBoarding/Scenes/OnBoarding1.unity
+    guid: 4e375037f8d19434098e43436bf6f2d7
+  - enabled: 1
+    path: Assets/OnBoarding/Scenes/OnBoarding2.unity
+    guid: ac36132475ded6d4d83aca363d678089
+  - enabled: 1
+    path: Assets/OnBoarding/Scenes/onBoarding3.unity
+    guid: 14a785cc9e8efd3449b96a7a7c814ff8
+  - enabled: 1
+    path: Assets/OnBoarding/Scenes/onBoarding4.unity
+    guid: 03d7d96832509b64fb7d3802ecdef07b
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/MainMenu.unity
+    guid: 90c4102e418774b42b106131e16baf95
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/Topics.unity
+    guid: d9fa8454c447e004b8e0d244b72599fb
+  - enabled: 1
+    path: Assets/YoutubePlayeFilling/Scenes/Player.unity
+    guid: 7e885db72e79341f4ba2bfe93f865240
+  - enabled: 1
+    path: Assets/YoutubePlayeFilling/Scenes/Panoramic.unity
+    guid: 1bebc975b3ae4410992c0452b2323406
+  - enabled: 1
+    path: Assets/YoutubePlayeFilling/Scenes/Simple.unity
+    guid: 2183a6daa37f2417284080e9f45174e4
+  - enabled: 1
+    path: Assets/YoutubePlayeFilling/Scenes/Metadata.unity
+    guid: 1ae4b359c867845e0a1cd9e1ae82e578
+  - enabled: 1
+    path: Assets/Profile/Scenes/Profile.unity
+    guid: 568cb4aeec8732d429d5230ac2da1d92
+  - enabled: 1
+    path: Assets/Ranking/Scenes/Ranking.unity
+    guid: 855af6f3db2bdff4f98f96f206fe1b5e
+  - enabled: 1
+    path: Assets/Setting/Scenes/Setting.unity
+    guid: f86f9edcda2b88a4eae8dc3706959b0a
+  - enabled: 1
+    path: Assets/Avatar/Scenes/Avatar.unity
+    guid: 4a08da55ee9a0a741bbeb571739f1b3b
+  - enabled: 1
+    path: Assets/Simulation/Scenes/Simulation.unity
+    guid: df5e774daddbf8444ad2dc45f8f17178
+  - enabled: 1
+    path: Assets/Setting/Scenes/Check Setting.unity
+    guid: 55110f8dfdf6ef944bfab2960cbf3b3a
+  - enabled: 1
+    path: Assets/Profile/Scenes/Delete Profile.unity
+    guid: 203f90a90e63f524fa70a1c0addc2da8
+  - enabled: 1
+    path: Assets/Add payment method/Scenes/Card.unity
+    guid: abb3023dedb08e34281f0d718fd2edc5
+  - enabled: 1
+    path: Assets/Add payment method/Scenes/Method.unity
+    guid: 470b3859b5c8dfa40bd6c3847e2468dd
+  - enabled: 1
+    path: Assets/Add payment method/Scenes/Vodafone.unity
+    guid: 54fb336cded4a4f4ea13192cdd87ec46
+  - enabled: 1
+    path: Assets/HW/Scenes/Haptic Pen.unity
+    guid: 1374c68bebf9c7846a3dc3ca21ba71cb
+  - enabled: 1
+    path: Assets/HW/Scenes/HW.unity
+    guid: 579f234c2f5d3bc4cb32a9b970cdf36d
+  - enabled: 1
+    path: Assets/HW/Scenes/HWPricing.unity
+    guid: 8f2dba6628d89864b9486d155fdda349
+  - enabled: 1
+    path: Assets/HW/Scenes/On the way.unity
+    guid: 25d62ee5a5e94df41ad894cce874011a
+  - enabled: 1
+    path: Assets/Setting/Scenes/Check Connection.unity
+    guid: ab99f9b454f7e544187a52aab49c2795
+  - enabled: 1
+    path: Assets/HW/Scenes/cancel.unity
+    guid: 6cdb351c61bf3764a80495745e5689de
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/Fillingvideo.unity
+    guid: e8898fa07cc677f4581f550f0767ff64
+  - enabled: 1
+    path: Assets/Packages/Scenes/Packages.unity
+    guid: cdb3d8cc096b1ee4cab57b176bcd9e14
+  - enabled: 1
+    path: Assets/Setting/Scenes/HP.unity
+    guid: a8f164e0e6209ea4e8df510e1e1d6018
+  - enabled: 1
+    path: Assets/Setting/Scenes/Start Simulate.unity
+    guid: aa43eb5f299c57d4292db62131bfd38e
+  - enabled: 1
+    path: Assets/Packages/Scenes/daily package.unity
+    guid: 79153e9e8a859454f9836ee6dada1931
+  - enabled: 1
+    path: Assets/HW/Scenes/canaccess.unity
+    guid: 57ef86d8894eb9144a01314675f11176
+  m_configObjects: {}
